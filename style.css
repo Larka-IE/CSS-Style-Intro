@@ -9,3 +9,23 @@ h1 {
 #header2 {
     color: blue; 
 }
+
+p { 
+    color: orange; 
+  }
+
+  #latest { 
+    background-color: rgb(235, 255, 124) 
+  }
+
+  .navigation { 
+    margin: 3px;
+  }
+
+  p.introduction { 
+    margin: 2px;
+  }
+
+  #blog h1 {
+    color: blue;
+  }
