@@ -5,10 +5,37 @@
     </head>
     <body>
         <h1 id="header1">Chapter One</h1>
-        <p>The First Chapter</p>
+        <h2>The First Chapter</h2>
+        <br>
+        <p>Once upon a time...</p>
+        <p>In a hidden land...</p>
         <h1 id="header2">Chapter Two</h1>
-        <p>The Second Chapter</p>
+        <h2>The Second Chapter</h2>
+        <br>
         <h1>Chapter Three</h1>
-        <p>The Third Chapter</p>
+        <h2>The Third Chapter</h2>
+        <br>
+
+        <span id="latest">New!</span>
+        <br>
+        <p>
+            <a class="navigation">Go Back</a>
+            <p class="navigation">Go Forward</p>
+        </p>
+        <p class="introduction"></a>
+
+            <div id="blog">
+                <h1>Latest News</h1>
+                <div>
+                  <h1>Today's Weather</h1>
+                  <p>The weather will be sunny</p>
+                </div>
+                <p>Subscribe for more news</p>
+              </div>
+              <div>
+                <h1>Archives</h1>
+              </div>    
+    
+
     </body>
 </html>
